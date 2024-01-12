@@ -22,7 +22,7 @@ const education = [
   {
     name: 'University of Wisconsin Madison',
     description: 'Masters in Computer Science',
-    stack: ['Sept 2023 - May 2025', 'GPA: 4.0/4.0'],
+    stack: ['Sept 2023 - Dec 2024', 'GPA: 4.0/4.0'],
   },
   {
     name: 'BITS Pilani',
