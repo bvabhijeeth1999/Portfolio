@@ -11,7 +11,7 @@ const about = {
   description:
     'Experienced software developer interested in solving complex problems and turning ideas into scalable solutions.',
   resume:
-    'https://drive.google.com/file/d/1vaf47dIJ3Yp7BbE5voiPxS2QQcMQOH-U/view?usp=sharing',
+    'https://drive.google.com/file/d/16TtmWm6Ho-3NUwiiTXNHWXWG2eFnhnJm/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/venkata-abhijeeth-balabhadruni-153b5b169/',
     github: 'https://github.com/bvabhijeeth1999',
