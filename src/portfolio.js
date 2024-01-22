@@ -9,7 +9,7 @@ const about = {
   name: 'Abhijeeth',
   role: 'MS CS at UW-Madison | Ex-Oracle | Ex-Amazon',
   description:
-    'Experienced software developer interested in solving complex problems and turning ideas into scalable solutions.',
+    'Versatile software developer with proven track record at Oracle and Amazon, optimizing web app performance and automating financial processes. Proficient in C, C++, Java, Python, and a robust tech stack. Certified Professional Scrum Master.',
   resume:
     'https://drive.google.com/file/d/16TtmWm6Ho-3NUwiiTXNHWXWG2eFnhnJm/view?usp=sharing',
   social: {
@@ -26,7 +26,7 @@ const education = [
   },
   {
     name: 'BITS Pilani',
-    description: 'B.E in Computer Science + Minor in Data Science',
+    description: 'B.E in Computer Science',
     stack: ['Aug 2017 - Jun 2021', 'GPA: 8.75/10.0'],
   },
 ]
@@ -112,13 +112,13 @@ const experience = [
   {
     name: 'Oracle',
     description:
-      'Application Developer in Procurement team developing Procurment Portal using HTML, CSS, JS, OJET, Oracle ADF, Java, VBCS, SQL',
+      'Enhanced Procurement web app with API optimizations, boosting performance by 30%. Integrated \'Shopping Lists\' for faster item procurement, achieving a 43% acceleration. Improved security and resolved 200+ bugs, reducing downtimes by 20%. Technologies used : HTML, CSS, JS, OJET, Oracle ADF, Java, VBCS, SQL',
     stack: ['Hyderabad, India', 'Jul 2021 - Aug 2023'],
   },
   {
     name: 'Amazon',
     description:
-      'Backend software development intern in the Sherlock team involved in financial reconciliation using Scala, Spark and AWS tools like S3, Step Functions, EMR, Athena, CloudWatch',
+      'Automated daily financial reconciliation using AWS tools, saving over 200 manual hours annually. Achieved 98% accuracy, enhancing efficiency, ensuring compliance, and streamlining workflows with AWS Step Functions, S3, Lambda, EMR, Athena, Glue, CloudWatch, and CDK.',
     stack: ['Hyderabad, India', 'Jan 2021 - Jun 2021'],
   }
 ]
