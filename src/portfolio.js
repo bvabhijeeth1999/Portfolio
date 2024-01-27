@@ -35,7 +35,7 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'EasyGo',
+    name: 'Mini Rel',
     description:
       'Built a mini Relational Database System as part of CS 564 - DBMS Course at UW Madison',
     stack: [
