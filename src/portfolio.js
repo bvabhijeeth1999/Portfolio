@@ -37,6 +37,15 @@ const projects = [
   {
     name: 'EasyGo',
     description:
+      'Built a mini Relational Database System as part of CS 564 - DBMS Course at UW Madison',
+    stack: [
+      'C', 'C++', 'SQL', 'DBMS'
+    ],
+    sourceCode: 'https://github.com/bvabhijeeth1999/Mini-Rel---DBMS'
+  },
+  {
+    name: 'EasyGo',
+    description:
       'An online portal built to book bus tickets as part of Software Engineering Course',
     stack: [
       'Software Engineering',
