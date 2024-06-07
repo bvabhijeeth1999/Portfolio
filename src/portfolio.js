@@ -11,7 +11,7 @@ const about = {
   description:
     'Versatile software developer with proven track record at Oracle and Amazon, optimizing web app performance and automating financial processes. Proficient in C, C++, Java, Python, and a robust tech stack. Certified Professional Scrum Master.',
   resume:
-    'https://drive.google.com/file/d/1v_wh_PFM4ti90hbZoUJOhRNu0GBb_9_P/view?usp=sharing',
+    'https://drive.google.com/file/d/1v6eM_c2bNAP9pOXADrkxfFgWE9TJht2U/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/venkata-abhijeeth-balabhadruni-153b5b169/',
     github: 'https://github.com/bvabhijeeth1999',
